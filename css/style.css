@@ -1,0 +1,20 @@
+.padre{
+  width: 80%;
+  height: 45px;
+  background: #F8A43E;
+  margin: 80px 160px;
+  padding: 15px;
+  border: 10px solid #6C0E95;
+
+}
+
+.hijo{
+  font-family: "Verdana";
+  text-align: center;
+  width: 90%;
+  height: 20px;
+  background: #FCFAF6;
+  margin: 0px 15px;
+  padding: 10px;
+  border: 2px dotted #010001;
+}
